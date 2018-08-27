@@ -1,0 +1,35 @@
+/*Comentarios*/
+/*etiqueta html{
+    estilo css 1;
+    estilo css2;
+}*/
+/*atributo : valor;
+Unidades de medida
+pixeles px
+puntos pt
+centimetros cm
+pulgadas in
+*/
+/*Estilos
+textos,parrafos,fondos y cajas*/
+#p1{
+    color: red;
+    font-size: 20px;
+    font-family: fantasy;
+    font-weight: bold;
+    font-style: oblique;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+
+#titulo{
+    font-family: cursive;
+    color: crimson;
+}
+
+#parrafo{
+    line-height: 25px;
+    text-align: center;
+    text-indent: inherit;
+}
+
